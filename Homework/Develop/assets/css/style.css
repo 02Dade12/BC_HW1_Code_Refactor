@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Below are updates to the header*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/*Main Photo Specs*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*Content Specs Below*/
 
 .float-left {
     float: left;
@@ -74,6 +80,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*Benefits Specs Below*/
 
 .benefits {
     margin-right: 20px;
@@ -131,6 +139,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*Footer Specs*/
 
 .footer {
     padding: 30px;
